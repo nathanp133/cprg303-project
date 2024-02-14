@@ -1,17 +1,13 @@
-
-
-We will use a drawer navigation system. We believe that our app should have a minimalistic look, and the drawer navigation system has the least amount of clutter on the screen compared to other methods like the tabbed navigation system.
-
-# Title
+# Menu Navigation
 
 ## Status
-What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.?
+What type of navigation system should our app have?
 
 ## Context
-What is the issue that we're seeing that is motivating this decision or change?
+We want our app to have a minimalistic look, and to avoid unnecessary clutter in our interface. We think that both the tab navigation and the bottom tab navigation take up too much space on our main screen.
 
 ## Decision
-What is the change that we're proposing and/or doing?
+We will be using a drawer navigation system.
 
 ## Consequences
-What becomes easier or more difficult to do because of this change?
+We should have a menu button to access different screens. The same page should also be accessed with a swipe gesture. 

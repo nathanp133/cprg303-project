@@ -1,17 +1,15 @@
 
-
-We will add a local database with the purpose of tracking past searches/calculations from the user. These searches will not be uploaded or shared with other users, so a local database is enough.
-
-# Title
+# Database
 
 ## Status
-What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.?
+We are determining if a database is needed for our calculator app. 
+
 
 ## Context
-What is the issue that we're seeing that is motivating this decision or change?
+We want to be able to store searches done in a session by our users. These searches will not be uploaded
 
 ## Decision
-What is the change that we're proposing and/or doing?
+We will be using a local database.
 
 ## Consequences
-What becomes easier or more difficult to do because of this change?
+In choosing a local database, we can store past searches or calculations from the user. Since we will be using a local database, it will not be possible for other users to access this data.

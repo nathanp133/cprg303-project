@@ -1,17 +1,15 @@
 
-
-React native elements and ant design mobile have been proposed as possible UI elements to use. We plan on using react native elements because it has easy integration with react. If there are any icons or components, we cannot find in react native elements, then we will look for them on ant design mobile. 
-
 # UI toolkit
 
 ## Status
-What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.?
+What UI toolkit should be used in development?
 
 ## Context
-What is the issue that we're seeing that is motivating this decision or change?
+Deciding on a UI toolkit to use. Since we do not know exactly what UI elements will be needed yet, this is not set in stone. For now, sticking to native solutions seems to be a safe choice. 
 
 ## Decision
-What is the change that we're proposing and/or doing?
+We plan on using react native elements because it has easy integration with react. If there are any icons or components, we cannot find in react native elements, then we will look for them on ant design mobile. 
+
 
 ## Consequences
-What becomes easier or more difficult to do because of this change?
+If at some point down the line we cannot find what we need from react native elements or ant design mobile, we will look at the following sources: Native Base, Shoutem UI, UI Kitten
