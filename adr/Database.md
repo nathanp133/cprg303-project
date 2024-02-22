@@ -2,7 +2,7 @@
 # Database
 
 ## Status
-We are determining if a database is needed for our calculator app. 
+Accepted
 
 
 ## Context

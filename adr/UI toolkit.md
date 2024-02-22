@@ -2,7 +2,7 @@
 # UI toolkit
 
 ## Status
-What UI toolkit should be used in development?
+Accepted
 
 ## Context
 Deciding on a UI toolkit to use. Since we do not know exactly what UI elements will be needed yet, this is not set in stone. For now, sticking to native solutions seems to be a safe choice. 

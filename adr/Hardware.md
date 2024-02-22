@@ -2,7 +2,7 @@
 # Hardware
 
 ## Status
-Will any hardware from the mobile devices be needed for our app?
+Accepted
 
 ## Context
 Hardware in this context is talking about sensors or systems like the gyroscope, GPS, speakers/microphone, camera. 
